@@ -8,7 +8,7 @@ namespace Rubtid
         {
             Properties = new ModProperties()
             {
-                Autoload = true,ГАВНО1337
+                Autoload = true,
                 AutoloadGores = true,
                 AutoloadSounds = true,
             };
